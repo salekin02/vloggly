@@ -35,17 +35,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-<!-- demo -->
-
-Fan View: https://vloggly.com
-
-user email: minju1@gmail.com
-password: 12345678
-
-user email: minju2@gmail.com
-password: 12345678
-
-Agency View: http://agency.vloggly.com
-
-"email": "agency1@gmail.com",
-"password": "12345678"
